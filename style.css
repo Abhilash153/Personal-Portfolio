@@ -52,7 +52,7 @@ nav ul li a:hover{
 }
 
 .info h1{
-    font-size: 30px;
+    font-size: 25px;
     color: #212121;
 }
 
@@ -60,6 +60,7 @@ nav ul li a:hover{
     font-size: 70px;
     color: #212121;
     margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 span{
@@ -68,8 +69,9 @@ span{
 
 .info p{
     color: #606163;
-    line-height: 22px;
+    font-size: 15px;
     margin-bottom: 30px;
+    font-family:monospace;
 }
 
 .info .btn{
@@ -113,20 +115,21 @@ span{
 
 .social-links a{
     font-size: 30px;
-    color: #606163;
+    /* color: #606163; */
     margin-right: 20px;
 }
-.social-links a.linkedin:hover{
-    color: blue;
+
+/* .social-links a.linkedin{
+    color: #0072b1;
 }
 
-.social-links a.github:hover{
+.social-links a.github{
     color: black;
 }
 
-.social-links a.twitter:hover{
-    color: lightseagreen;
-}   
+.social-links a.twitter{
+    color: #00acee;
+}    */
 
 footer{
     width: 100%;
@@ -189,7 +192,7 @@ footer p{
     }
 
     .info h1{
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .info h2{
@@ -197,7 +200,7 @@ footer p{
     }
 
     .info p{
-        font-size: 17px;
+        font-size: 15px;
     }
 
     .img-box{
