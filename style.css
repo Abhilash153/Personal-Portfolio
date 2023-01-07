@@ -60,7 +60,7 @@ nav ul li a:hover{
     font-size: 70px;
     color: #212121;
     margin-bottom: 10px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 span{
@@ -119,7 +119,7 @@ span{
     margin-right: 20px;
 }
 
-/* .social-links a.linkedin{
+.social-links a.linkedin{
     color: #0072b1;
 }
 
@@ -129,7 +129,7 @@ span{
 
 .social-links a.twitter{
     color: #00acee;
-}    */
+}   
 
 footer{
     width: 100%;
